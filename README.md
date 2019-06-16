@@ -1,2 +1,2 @@
-# ATLAS-Lund-W
+# ATLAS-Lund-W-Tagger
 Cr. Alex Martin
